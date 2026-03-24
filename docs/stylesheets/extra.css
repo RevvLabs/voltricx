@@ -1399,6 +1399,18 @@ body.vtx-is-home .md-content {
   background: rgba(var(--vtx-accent-rgb), 0.15);
 }
 
+.vtx-stats-row {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 24px;
+  justify-content: center;
+}
+
+.vtx-stats-row img {
+  height: 20px;
+  border-radius: 3px;
+}
+
 /* ── Scroll hint ───────────────────────────────────────────────── */
 .vtx-scroll-hint {
   position: relative;
