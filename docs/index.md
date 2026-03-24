@@ -45,6 +45,35 @@ hide:
       </a>
     </div>
 
+    <div class="vtx-stats-bar vtx-animate-in">
+      <div class="vtx-stat-item">
+        <span class="vtx-stat-value" data-target="0" data-suffix="+">0</span>
+        <span class="vtx-stat-desc">Stars</span>
+      </div>
+      <div class="vtx-stat-sep"></div>
+      <div class="vtx-stat-item">
+        <span class="vtx-stat-value" data-target="0" data-suffix="">0</span>
+        <span class="vtx-stat-desc">Forks</span>
+      </div>
+      <div class="vtx-stat-sep"></div>
+      <div class="vtx-stat-item">
+        <span class="vtx-stat-value" data-target="1.0" data-prefix="v">0</span>
+        <span class="vtx-stat-desc">Version</span>
+      </div>
+    </div>
+
+    <div class="vtx-stats-row vtx-animate-in" style="margin-top: 2rem;">
+      <a href="https://github.com/RevvLabs/voltricx/stargazers">
+        <img src="https://img.shields.io/github/stars/RevvLabs/voltricx?style=flat-square&color=8c52ff" alt="Stars">
+      </a>
+      <a href="https://github.com/RevvLabs/voltricx/network/members">
+        <img src="https://img.shields.io/github/forks/RevvLabs/voltricx?style=flat-square&color=8c52ff" alt="Forks">
+      </a>
+      <a href="https://github.com/RevvLabs/voltricx/releases">
+        <img src="https://img.shields.io/github/v/release/RevvLabs/voltricx?style=flat-square&color=8c52ff" alt="Release">
+      </a>
+    </div>
+
   </div>
 
 
