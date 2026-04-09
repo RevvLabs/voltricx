@@ -7,16 +7,17 @@ name = "voltricx"
 dynamic = ["version"]
 description = "A modern, simple, and powerful Lavalink wrapper for discord.py."
 authors = [
-    { name = "@JustNixx" },
-    { name = "@Dipendra-creator" }
+    { name = "JustNixx" },
+    { name = "Dipendra" }
 ]
-license = { text = "MIT" }
+license = { file = "LICENSE" }
 readme = "README.md"
 requires-python = ">=3.12"
 classifiers = [
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.12",
     "Programming Language :: Python :: 3.13",
+    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
 dependencies = [
@@ -38,7 +39,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/RevvLabs/voltricx"
+Homepage = "https://voltricx.revvlabs.in"
+Repository = "https://github.com/RevvLabs/voltricx"
+Documentation = "https://voltricx.revvlabs.in"
+Issues = "https://github.com/RevvLabs/voltricx/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]
@@ -52,10 +56,9 @@ exclude = ["voltricx/_version.py"]
 [tool.ruff.lint]
 select = ["E", "F", "W", "I", "UP"]
 ignore = [
-    "E501",   # line too long — handled by formatter
-    "UP007",  # use X | Y for Union — already done; suppress for Annotated[] edge cases
+    "E501",
+    "UP007",
 ]
-# Allow F401 on re-export modules (__init__.py, typings/__init__.py)
 per-file-ignores = { "voltricx/__init__.py" = ["F401"], "voltricx/typings/__init__.py" = ["F401", "F403"] }
 
 [tool.ruff.format]
