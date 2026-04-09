@@ -1,115 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://voltricx.dev/</loc>
+         <loc>https://voltricx.revvlabs.in/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/api-reference/enums/</loc>
+         <loc>https://voltricx.revvlabs.in/api-reference/enums/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/api-reference/events/</loc>
+         <loc>https://voltricx.revvlabs.in/api-reference/events/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/api-reference/exceptions/</loc>
+         <loc>https://voltricx.revvlabs.in/api-reference/exceptions/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/api-reference/filters/</loc>
+         <loc>https://voltricx.revvlabs.in/api-reference/filters/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/api-reference/hypercache/</loc>
+         <loc>https://voltricx.revvlabs.in/api-reference/hypercache/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/api-reference/node/</loc>
+         <loc>https://voltricx.revvlabs.in/api-reference/node/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/api-reference/player/</loc>
+         <loc>https://voltricx.revvlabs.in/api-reference/player/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/api-reference/pool/</loc>
+         <loc>https://voltricx.revvlabs.in/api-reference/pool/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/api-reference/queue/</loc>
+         <loc>https://voltricx.revvlabs.in/api-reference/queue/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/api-reference/tracks/</loc>
+         <loc>https://voltricx.revvlabs.in/api-reference/tracks/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/api-reference/typings/</loc>
+         <loc>https://voltricx.revvlabs.in/api-reference/typings/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/examples/basic-bot/</loc>
+         <loc>https://voltricx.revvlabs.in/examples/basic-bot/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/examples/full-bot/</loc>
+         <loc>https://voltricx.revvlabs.in/examples/full-bot/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/examples/slash-commands/</loc>
+         <loc>https://voltricx.revvlabs.in/examples/slash-commands/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/getting-started/configuration/</loc>
+         <loc>https://voltricx.revvlabs.in/getting-started/configuration/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/getting-started/installation/</loc>
+         <loc>https://voltricx.revvlabs.in/getting-started/installation/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/getting-started/lavalink-setup/</loc>
+         <loc>https://voltricx.revvlabs.in/getting-started/lavalink-setup/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/getting-started/quickstart/</loc>
+         <loc>https://voltricx.revvlabs.in/getting-started/quickstart/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/guide/autoplay/</loc>
+         <loc>https://voltricx.revvlabs.in/guide/autoplay/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/guide/caching/</loc>
+         <loc>https://voltricx.revvlabs.in/guide/caching/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/guide/errors/</loc>
+         <loc>https://voltricx.revvlabs.in/guide/errors/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/guide/events/</loc>
+         <loc>https://voltricx.revvlabs.in/guide/events/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/guide/filters/</loc>
+         <loc>https://voltricx.revvlabs.in/guide/filters/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/guide/nodes/</loc>
+         <loc>https://voltricx.revvlabs.in/guide/nodes/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/guide/playback/</loc>
+         <loc>https://voltricx.revvlabs.in/guide/playback/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/guide/queue/</loc>
+         <loc>https://voltricx.revvlabs.in/guide/queue/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
     <url>
-         <loc>https://voltricx.dev/includes/abbreviations/</loc>
+         <loc>https://voltricx.revvlabs.in/includes/abbreviations/</loc>
          <lastmod>2026-04-09</lastmod>
     </url>
 </urlset>
